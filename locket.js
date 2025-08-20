@@ -13,7 +13,7 @@ var ohoang7 = {
   expires_date: "3000-12-31T23:59:59Z",
   grace_period_expires_date: null,
   unsubscribe_detected_at: null,
-  original_purchase_date: "2024-07-28T01:04:18Z",
+  original_purchase_date: "2025-09-15T01:04:18Z",
   purchase_date: "2025-09-15T01:04:17Z",
   store: "app_store"
 };
