@@ -14,12 +14,12 @@ var ohoang7 = {
   grace_period_expires_date: null,
   unsubscribe_detected_at: null,
   original_purchase_date: "2024-07-28T01:04:18Z",
-  purchase_date: "2024-07-28T01:04:17Z",
+  purchase_date: "2025-09-15T01:04:17Z",
   store: "app_store"
 };
 var vuong2023 = {
   grace_period_expires_date: null,
-  purchase_date: "2024-07-28T01:04:17Z",
+  purchase_date: "2025-09-15T01:04:17Z",
   product_identifier: "com.ohoang7.premium.yearly",
   expires_date: "3000-12-31T23:59:59Z"
 };
